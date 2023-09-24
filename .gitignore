@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+/dev
+/myapp
+/myapp2
+build.R
+.Rdata
+.httr-oauth
+.DS_Store
+.quarto
